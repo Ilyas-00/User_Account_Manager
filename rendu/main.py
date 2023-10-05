@@ -3,6 +3,7 @@ import string
 import hashlib
 
 
+
 # Liste pour stocker les comptes utilisateur et admin
 users = []
 admins = []
